@@ -1,1 +1,6 @@
+<<<<<<< HEAD
  hello welcome to git lab
+=======
+hello , this is the 2nd expt of our git lab
+
+>>>>>>> f288093ecc6e613ad98110d68393ecb3374ca4ce
