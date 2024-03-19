@@ -1,0 +1,8 @@
+<<<<<<< HEAD
+akash hosakeri
+welome to gitlab
+=======
+welcome to 5th GIT lab.
+hi
+hello apeksha
+>>>>>>> f288093ecc6e613ad98110d68393ecb3374ca4ce
