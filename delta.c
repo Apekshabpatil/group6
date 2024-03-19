@@ -3,4 +3,5 @@ void main()
 {
 printf("BLDEA");
 printf("CSE");
+printf("3rd sem");
 }
