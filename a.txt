@@ -1,3 +1,7 @@
+<<<<<<< HEAD
 welcome to 5th GIT lab.
 hi
 hello apeksha
+=======
+
+>>>>>>> 369f100cc21fa5b1578caee5f2119b8b7b9d4e86
